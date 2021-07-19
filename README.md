@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Android App Development**
 
-- 👨‍💻 All of my projects are available at [https://bharathprathap.github.io/personalwebsite/](https://bharathprathap.github.io/personalwebsite/)
+- 👨‍💻 All of my projects are available at [https://bharathprathap.github.io/](https://bharathprathap.github.io/)
 
 - 📫 How to reach me **bharathprathap@hotmail.com**
 
