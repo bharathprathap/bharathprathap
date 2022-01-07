@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bharath Prathap Nair</h1>
-<h3 align="center">A passionate Computer Science and Engineering from India</h3>
+<h3 align="center">A passionate Computer Science and Engineering student from India.</h3>
 
 - 🔭 I’m currently working on **Foodo Android Food Delivery App**
 
