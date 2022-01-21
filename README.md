@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Bharath Prathap Nair</h1>
 <h3 align="center">A passionate Computer Science and Engineering student from India.</h3>
 
-- 🔭 I’m currently working on **Foodo Android Food Delivery App**
+- 🔭 I’m currently working on **Collaborative Study Platform**
 
-- 🌱 I’m currently learning **Android App Development**
+<!-- 🌱 I’m currently learning **-**>>-->
 
 - 👨‍💻 All of my projects are available at [https://bharathprathap.github.io/](https://bharathprathap.github.io/)
 
-- 📫 How to reach me **bharathprathap@hotmail.com**
+- 📫 How to reach me: Email me at **bharathprathap@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
